@@ -1,0 +1,6 @@
+{
+  "name": "GymDosth — Workout Companion",
+  "description": "Modern, beginner-friendly workout companion for school & college students and everyday gym-goers across India. Guided workout plans, live tracking, rest timer, exercise library, and habit progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
